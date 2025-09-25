@@ -28,27 +28,89 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+As an end-user, create the following ticket
+entire mobile/online banking system is down
+
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Set Properties to the ticket
+Sev-A (1 hour, 24/7)
+Online Banking Department
+
+Attempt to observe the ticket again as “john”. Can you view or change?
+
+Work the ticket to completion as jane
+<img width="1798" height="910" alt="image" src="https://github.com/user-attachments/assets/8c7bb4fe-afc6-4242-96e1-ad7d4dfe876f" />
+
+
+As an end-user, create the following ticket
+accounting department needs adobe upgrade, broken
+
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
+
+Work the ticket to completion as john
+<img width="1522" height="496" alt="image" src="https://github.com/user-attachments/assets/b691562e-34af-4611-91a6-32ed05d62825" />
+<img width="1525" height="463" alt="image" src="https://github.com/user-attachments/assets/a6084534-9c92-4234-8346-b83475220cba" />
+
+
+As an end-user, create the following ticket
+CFO’s laptop will no longer turn on
+
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
+<img width="1273" height="445" alt="image" src="https://github.com/user-attachments/assets/9363fef0-efa3-4773-81b0-f1ead412e0ea" />
+
+Work the ticket to completion as john
+<img width="1273" height="445" alt="image" src="https://github.com/user-attachments/assets/4e83acdb-1008-41e2-97cb-8428e22605de" />
+
+
+
+
+
+
+
+
+
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
